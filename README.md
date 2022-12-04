@@ -1,24 +1,23 @@
----- Requirements
-Node and npm:
+# Requirements
+### Node and npm:
 https://nodejs.org/en/download/
 https://nodejs.org/en/download/package-manager/
 
----- Installation
+# Installation
 
-cd keyStore
-npm install
+#### cd keyStore
+#### npm install
 
----- How to run
+# How to run
 
-npm start
+#### npm start
+
+# run the test 
+
+#### npm test 
 
 
----- run the test 
-
-npm test 
-
-
----- available commands
+# available commands
 
   Available output formats: "json", "yaml", "csv".
 
